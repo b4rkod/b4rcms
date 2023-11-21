@@ -3,5 +3,5 @@ printf "<link rel="icon" type="image/png" sizes="32x32" href="/etc/favicon-32x32
 printf "<div id="menu" >\n <a href="/index.html" >Main</a>\n <a href="/index.html#blogposts" >Blogposts</a>\n <a href="/index.html#contents" >Contents</a>\n <a href="files/files.html" >Library</a> \n <a href="https://git.b4rkod.net.tr" >git</a>\n <a href="https://b4rkod.net.tr/rss.xml" >RSS</a> <a href="https://b4rkod.net.tr/#webrings" >webrings</a></div>\n "
 
 printf "<p> date : $(stat -c '%w' $1| cut -d " " -f 1)\n "
-sed "/\/\//s/$/<\/p>/;/\/\//s/\/\//<p> \&nbsp \&nbsp /" $1
+sed "/\/\/\//s/$/<\/p>/;/\/\/\//s/\/\//<p> \&nbsp \&nbsp /" $1
 printf  " </body> <html>"
