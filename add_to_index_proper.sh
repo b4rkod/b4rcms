@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 cp -r $HOME/www/source /tmp/source
 FILE=$(basename $1|sed s/.txt/.html/)
 echo $FILE
