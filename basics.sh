@@ -1,45 +1,50 @@
 #!/bin/sh
+TABNAME="Barkod\'s Basement"
+ROOT="$HOME/www"
+SOURCE="$ROOT/source"
+PATH="$PATH:$ROOT/sh"
+SERVER="root@23.94.92.217"
+SERVERFILE="$SERVER:/var/www/b4rkod/"
 
 header() {
-printf \ "
-<!DOCTYPE html>
-<html lang="en">
-<head>
+	printf \ "
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
 
-	<link rel="icon" type="image/png" sizes="32x32" href="/etc/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="/etc/favicon-16x16.png">
-	<link rel="manifest" href="/etc/site.webmanifest">
-	<meta charset="utf-8">
+		<link rel="icon" type="image/png" sizes="32x32" href="/etc/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/etc/favicon-16x16.png">
+		<meta charset="utf-8">
 
-	<link rel="stylesheet" href="/etc/style.css">
-	<title>Barkod's Basement | $1</title>
-</head> 
+		<link rel="stylesheet" href="/etc/style.css">
+		<title> $TABNAME  $([ $1 ] && printf "| $1") </title>
 
-<body> 
-	<h1> $1 </h1> 
-	<hr> 
 
-	<div id="menu" >
-		<a href="/index.html" >Main</a>
-		<a href="/index.html#blogposts" >Blogposts</a>
-		<a href="/index.html#contents" >Contents</a>
-		<a href="/files/files.html" >Library</a>
-		<a href="https://git.b4rkod.net.tr" >git</a>
-		<a href="/rss.xml" >RSS</a>
-		<a href="/index.html#webrings" >webrings</a>
-		<a href="/trash/trash.html" >Trash</a>
-</div>
-<br> 
-<div id="main">
-"
+	</head> 
+
+	<body> 
+	<h1> $( [ $1 ] && printf "$1" || printf " $TABNAME") </h1> 
+		<hr> 
+
+		<div id="menu" >
+			<a href="/index.html" >Main</a>
+			<a href="/blogposts.html" >Blogposts</a>
+			<a href="https://b4rkod.net.tr/avatar.html" >avatar</a>
+			<a href="https://git.b4rkod.net.tr" >git</a>
+			<a href="https://b4rkod.net.tr/rss.xml" >RSS</a>
+			<a href="https://b4rkod.net.tr/#webrings" >webrings</a>
+		</div>
+		<br> 
+		<div id="main">
+	"
 }
 
 footer() {
-	printf \ '
-	</div >
-	<br>
-<img style=" margin-left: auto; margin-right: auto;display:block"  
-title="b4rkod written in lower case" src="/images/b4rkod.png"> 
-</body> 
-</html> '
+		printf \ '
+		</div >
+		<br>
+		<img style=" margin-left: auto; margin-right: auto;display:block"  
+		title="b4rkod written in lower case" src="/images/b4rkod.png"> 
+	</body> 
+	</html> '
 }
