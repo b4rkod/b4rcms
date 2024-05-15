@@ -13,19 +13,20 @@ echo "$(
 		<img src="/files/b4rkod_avatar.png" align="right">
 		<p>Anyways!<p>
 		<p>In this site i will post crazy weird ramblings about technology with maybe my awful c practices scattered here and there.</p>
-		<p>I know my website doesn\'t look like much right now but i am stable and can be trusted with long, tedious labour with no immediate returns soo i will fill it with thingies and stuff. Pinkie promise...</p> 
+		<p>I know my website doesn't look like much right now but i am stable and can be trusted with long, tedious labour with no immediate returns soo i will fill it with thingies and stuff. Pinkie promise...</p> 
 
 	<h2 > Contents </h2> "
 
 	echo \ "
 	<ul id="contents">
-		<li><a href="//git.b4rkod.net.tr">git</a></li>
-		<li><a href=blogposts.html >Blogposts</a></li>
-		<li><a href=https://b4rkod.net.tr/avatar.html >avatar</a></li>
-		<li><a href=files/files.html >Library</a></li>
-		<li><a href=https://git.b4rkod.net.tr >git</a></li>
-		<li><a href=https://b4rkod.net.tr/rss.xml >RSS</a></li>
+		<li><a href=/blogposts.html >Blogposts</a></li>
+		<li><a href="https://git.b4rkod.net.tr">git</a></li>
+		<li><a href=/tools_i_use.html >Tools i use</a></li>
 		<li><a href=https://b4rkod.net.tr/#webrings >webrings</a></li>
+		<li><a href=https://b4rkod.net.tr/avatar.html >avatar</a></li>
+		<li><a href=https://b4rkod.net.tr/rss.xml >RSS</a></li>
+		<li><a href=/twtxt.txt >twtxt</a></li>
+		<li><a href=files/files.html >Library</a></li>
 		<li><a href=/trash/trash.html >Trash</a></li>
 	</ul>
 		"

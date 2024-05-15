@@ -29,10 +29,11 @@ header() {
 		<div id="menu" >
 			<a href="/index.html" >Main</a>
 			<a href="/blogposts.html" >Blogposts</a>
-			<a href="https://b4rkod.net.tr/avatar.html" >avatar</a>
+			<a href="/tools_i_use.html" >tools i use</a>
 			<a href="https://git.b4rkod.net.tr" >git</a>
-			<a href="https://b4rkod.net.tr/rss.xml" >RSS</a>
 			<a href="https://b4rkod.net.tr/#webrings" >webrings</a>
+			<a href="https://b4rkod.net.tr/avatar.html" >avatar</a>
+			<a href="https://b4rkod.net.tr/rss.xml" >RSS</a>
 		</div>
 		<br> 
 		<div id="main">

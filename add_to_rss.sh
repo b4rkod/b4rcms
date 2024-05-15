@@ -1,7 +1,8 @@
-BASE=$(basename $1|sed s/txt$/html/)
-FILE=$(cat $1|sed -E ':a;N;$!ba; s/\/\/\///g ;s/\//\\\//g ; s/\r{0,1}\n/<\\\/p>/g;s/^/<p>/;')
-echo $BASE
+FILE=$(cat $1 | sed -E ':a;N;$!ba;s/\r{0,1}\n/\\n/g'| sed "s#\/#\\\/#g" )
 
-sed -i "/<\!--item-->/s/$/\n\<item><pubDate><\/pubDate><guid>https:\/\/b4rkod.net.tr\/$BASE<\/guid><title>$BASE<\/title><link>https:\/\/b4rkod.net.tr\/blogposts\/$BASE<\/link><description><![CDATA[$FILE]]><\/description><\/item>/" "$HOME/www/source/rss.xml"
+BASE=$(basename $1)
+
+RSS_DATE=$(date -d "$(stat -c %w $1)" -R)
+sed -i "/<\!--item-->/s/$/\n<item>\n<pubDate>$RSS_DATE<\/pubDate>\n<guid>https:\/\/b4rkod.net.tr\/$BASE<\/guid>\n<title>$BASE<\/title>\n<link>https:\/\/b4rkod.net.tr\/blogposts\/$BASE<\/link>\n<description><![CDATA[$FILE]]><\/description>\n<\/item>/" "$HOME/www/source/rss.xml"
 
 
