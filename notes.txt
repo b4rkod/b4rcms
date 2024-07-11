@@ -1,0 +1,2 @@
+date +%s  #unix time 
+stat -c %W file

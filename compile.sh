@@ -5,6 +5,3 @@
 for f in $(ls $ROOT/sh/pages) ; do 
 	$ROOT/sh/pages/$f ;
 done
-
-copy.sh
-

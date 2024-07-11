@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <rss version="2.0">
+
+<channel>
+        <title>B4rkod's Basement</title>
+        <link>https://b4rkod.net.tr/rss.xml</link>
+	<description>My Basement's Window</description>
+	<!--item-->]> 
+ 
+<item>
+	<pubDate>Sun, 07 Jul 2024 10:43:24 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/sheer_stupidity_i_possess.html</guid>
+	<title>sheer_stupidity_i_possess.html</title>
+	<link>https://b4rkod.net.tr/blogposts/sheer_stupidity_i_possess.html</link>
+	<description><![CDATA[
+	<p>Hey travellers, long time no see.</p>
+<p>Soo, things happen as you all know but sometimes they actually don't because they happen in dreams. This will be a valuable information later on</p>
+<p>Before i talk about the last thing i have done let me start from the start. I have done robotics! I tried to make a robotic hand that is controlled by voice commands. It was the sickest thing ever except the voice module, which did as well speech recognition as a baby, a really really stupid baby.</p>
+<img width="50%" src="/files/robotic_thing.jpg">
+<p>When the voice recognition module worked, it worked pretty well. The idea was that first, you gave it the name of 3 servos and then a level(1-4) to put that servo at. The soldering stand thing is there because this robotic arm is actually a voice controlled soldering table, which is indistinguisable from a voice controlled arm except the soldering stand.</p>
+
+<p>Let me talk about other things i have done, broke my computer once again. Yep, liquid damage this time. I let it dry for 2 days and it would probably work after that but it didn't, wanna know why? I put the ram in at a angle. It works fine now, no need to worry.</p>
+
+<p> Now lets get to the first statement in the post. Things sometimes don't happen, such as my computer being unable to close because of a usb malfunction, a issue i was trying to replicate for 10-15 minutes minimum. You might think, how could this happen, did you finally go insane? my answer is maybe, maybe i have. But i have my reasons, reasons why i thought i had a actual issue not why i went insane(i am probably fine).</p>
+<p> My reasons? sleep deprivation, it always is the sleep deprivation. </p>
+<p> I just don't get sleep, i go 2 days without sleep once in a while and i am completely fine but can't even think because of how sleepy i am when i wake up from a normal slumber. I even missed a exam because i overslept throught a alarm recently, i don't even use alarms normally i just wake up at 7 am throught sheer discipline. </p>
+<p> Back to the prior point, i just saw my computer had a usb issue and couldn't shutdown in my dream then i woke up to try debug it, i realised my mistake before the half a hour mark thankfully. </p>
+<p> What does that say about my sleep schedule, i honestly don't know</p>
+
+I am thinking about writing rewriting the build scripts because the rss feed doesn't have correct dates, stay tuned for that.
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Sun, 26 May 2024 19:56:48 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/awful_screwdriver.html</guid>
+	<title>awful_screwdriver.html</title>
+	<link>https://b4rkod.net.tr/blogposts/awful_screwdriver.html</link>
+	<description><![CDATA[
+	<p> Hi Travellers.
+<p> this isn't my normal post where i write text as i normally do, this is a IRC log of me since i believe i couldn't write it better again soo here it is. <br>
+<br>
+
+14:07 < b4rkod> soo, i was doing that robot arm thing that was forced on us by our teach<br>
+14:08 < b4rkod> there were 4 servo motors and 4 literal miniscule screws that were used to hold the screw the apparatus to the base of the servo motors<br>
+14:09 < b4rkod> i lost one of those like a fkind idiot<br>
+14:09 < b4rkod> soo i thought "where could such a small screw be?<br>
+14:09 < b4rkod> my phone!!!<br>
+14:09 < b4rkod> then i took out my samsung's screen out and tried to unscrew one of them<br>
+14:10 < b4rkod> turns out i don't have a screwdriver small enough to unscrew that<br>
+14:10 < b4rkod> soo i took my nail clipper and grinded the thinnest flat screw i had until i could unscrew one of them<br>
+14:11 < b4rkod> just imagine the time i fucking wasted trying to grind a screwdriver until it fits a phones screw with a little nailclipper<br>
+14:12 < b4rkod> soo, after some time i could unscrew one of them, i took one screw out of the phone and started screwing the apparatus to the motor<br>
+14:13 < b4rkod> guess what, the fucking little shitty screw's head is too small to hold the damn thing!!<br>
+14:13 < b4rkod> nearly 15 minutes wasted doing the most random shit in the world<br>
+
+<p>Thats about it, bye.
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Wed, 22 May 2024 09:03:03 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/added_twtxt.html</guid>
+	<title>added_twtxt.html</title>
+	<link>https://b4rkod.net.tr/blogposts/added_twtxt.html</link>
+	<description><![CDATA[
+	<p> Hey Traveller</p>
+<p>Welcome back to my (probably) rss, since i have yet to see a person read my blog outside rss. Which i why i find this blogpost to be neccesary.
+<p> I have a twtxt instance now, i will post low quality(even lower than the blogposts), short thoughts of mine over there. At first i thought about making a RSS for that too but i found out there is a protocol for that soo i will use it for the time bean. Here is my <a href="https://b4rkod.net.tr/twtxt.txt">twtxt link</a>.
+<p>You can read about the protocol <a href="https://github.com/buckket/twtxt">here</a>
+<p>Other than that, there is nothing much for me to talk about. 
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Mon, 06 May 2024 00:05:42 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/Librebooting_x201.html</guid>
+	<title>Librebooting_x201.html</title>
+	<link>https://b4rkod.net.tr/blogposts/Librebooting_x201.html</link>
+	<description><![CDATA[
+	<p>Hi travellers, i am back after a boring exam season.</p>
+<p>In the time we didn't talk, i have corebooted my thinkpad. It is nice running a more libre machine. The compile configuration is basically stolen from someone else soo there is nothing much i can say about it, i used <a href="https://github.com/bneils/X201_coreboot_config">this</a> guys configuration soo you can just look at it. My adventure was more about how i could flash the rom because i live in a dorm with no monitors, no keyboard and only 2 laptops with RPI3 as a programmer.</p>
+<p>Firstly, i didn't even know if the RPI worked at all soo i tried to ping it by connecting to my phone's hotspot and connecting the RPI with usb tethering. Well, turns out the little shit that is the phone creates 2 seperate networks for usb tethering and hotspot soo they can't see each other. That idea was thrown out instantly.</p>
+<p>Secondly, i bought a ethernet cable from a tobacco shop, (you read that correctly, they were selling computer stuff and tobacco in the same shop) i knew there was a way to connect 2 computers with just a ethernet cable soo i connected them. Well, the network they created had /16 subnet!1!. There was 2 computers in the LAN and they decided to create a network that could route a whole village, thanks for that. Soo i started nmap to scan the 65K or so ip's with no parallel because i didn't know you could do that, it didn't finish in about a hour as you would expect soo i stopped the process. After i learnt how to do parallel i rescanned again just to see that RPI just didn't work.</p>
+<p>After the failure i had, i checked my ISO folder and found a rasbian image just sitting there waiting to getting burned. After i reinstalled rasbian, the nmap scan gave a positive IP but guess what, <b>Regulations!</b>. Turns out you can't ship computers with default passwords anymore for security, inclusivity or whatever. I had to write to the boot partition the name/password i will use soo back to the computer port the SD card went. Thankfully after i did that too did it give me a SSH i could connect to.</p>
+<p>After i did that, i started flashing x201's bios from the RPI3, which i ssh'ed from the x270. It gave me a nerdgasm, just look at it.</p>
+<img title="the image of a messy desk, 2 laptops and a rpi are on it" src="/files/output.jpg">
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Mon, 15 Apr 2024 10:28:55 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/The_resurrection_of_x201.html</guid>
+	<title>The_resurrection_of_x201.html</title>
+	<link>https://b4rkod.net.tr/blogposts/The_resurrection_of_x201.html</link>
+	<description><![CDATA[
+	 <p> Hey traveller</p>
+<p>I have good news today, traveller. I bought a CCFL monitor assembly for x201, it is more maxed out than ever and the backlight works once again. The backlight issue wasn't on the board but on the LCD ribbon cable. </p>
+<p> I missed writing with her pristine keyboard soo much. X270's keyboard feels soo bland compared to hers. They really passed some engineering milestone with those keyboards(which makes one wonder why they even stopped producting those).</p>
+<p> I will continue to use both of them because x270 has enough battery life that i can use it without carrying a charging cable for most usecases and i play cuphead on it. X270 was a good purchase as far as my computers purchases go, x201 is still my best machine but x270 is not something to ignore. </p>
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Sat, 30 Mar 2024 11:24:37 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/changed_dns_server.html</guid>
+	<title>changed_dns_server.html</title>
+	<link>https://b4rkod.net.tr/blogposts/changed_dns_server.html</link>
+	<description><![CDATA[
+	 <p> Hello, traveller.</p>
+<p> I don't really hvae much to talk about except that i changed to clouddns for dns hosting and i finally have a avatar(or a avatar, idk).</p>
+<p> You can access the 3 images of him i drew <a href="/avatar.html">here</a>. I drew them in math class in my notebook and traced them in krita with a huion drawing tablet.</p>
+<p> Redirection doesn't work right now, they probably will start redirecting today. sorry about that. If you can read this right after i write it you are connecting because your browser cached the ip.</p>
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Sun, 10 Mar 2024 00:18:12 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/some_shoutouts.html</guid>
+	<title>some_shoutouts.html</title>
+	<link>https://b4rkod.net.tr/blogposts/some_shoutouts.html</link>
+	<description><![CDATA[
+	 <p> Hey Travellers.</p>
+<p> This post be unlike my other posts, this time you have something more tolerable than my crazy ramblings about technology because it is about my friends on the internet this time. </p>
+<p> Let's get to the meat and patatos. First person is <a href="https://punp.neocities.org">Punp</a>, they made the pfp i use in agora roads.They mostly do 3D art and posts them in <a href="https://forum.agoraroad.com/index.php?members/punp.4749/#about">their Agora account</a>. Here is the PFP they made for me.</p>
+<img src="/files/punp_pfp.png">
+<p> The other artist i want to talk about is <a href="https://genosadness.neocities.org">GENOSAD</a>.  You will find quite a lot of fun content in his site, especially the <a href="https://incidences.the-comic.org/comics/first/#content-start">incredible incidenceswithin LS high school</a> comics are quite fun. He made these sick trading cards below. You can find more <a href="https://genosadness.neocities.org/galleries/cards">here</a>.</p>
+<img src="/files/b4rkod-agora.png">
+<img src="/files/b4rkod-agoraFOIL.png">
+<img src="/files/genosad_trading_card.png">
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Sat, 09 Mar 2024 10:26:21 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/really_enjoyed_Castle_from_Franz.html</guid>
+	<title>really_enjoyed_Castle_from_Franz.html</title>
+	<link>https://b4rkod.net.tr/blogposts/really_enjoyed_Castle_from_Franz.html</link>
+	<description><![CDATA[
+	 <p> Hi Travellers.</p>
+<p> I thought ramblings about technologies doesn't fill the site enough too i will review some books i read and i thought Castle from Franz Kafka is a nice start. I will give spoilers btw.</p>
+<p> Lets start with what i think of the book! It is a nice book, it is pretty close to the "trial" from the same writer in the idea but the environment and the event chain is distinctly different. In Castle, there is a man working as a cadestral surveyor, he is called "mr. K" and thats how i will referr to him. He tries to find work in a village that has a castle with a weird bureau system. </p>
+<p> Just like his Trial book, this book is about the issues he faces against a complex system that is working against working properly. But unlike Trial, this book isn't even properly finished, the book ends in the middle of a ongoing conflict, not in a cliffhanger way but like if i ended the text before ending a paragraph. Thats because Castle was a unfinished work and not because of time constraints but because he didn't know where to go and how to finish. There are inconsistencies around character's personalities and soo much unexplained mysteries that were unintentional. I believe this added soo much to the book because as i said the book is about a man's war against a dysfunctional system, as i read the book i could feel what mr. K felt because the book was working against us too. Nothing made sense about the situation, we never knew enough things about the situation of things to build a good image of the village, characters and the Castle thanks to the unreliable narrator and Franz changing his ideas mid story. </p>
+<p> I actually liked Castle more than Trial for this reason, in Trial the fog around the situation was intentional while in Castle it was unintentional just like the system in these books.</p>
+<p> </p>
+<p> Status update:</p>
+<p> The site was not redirecting for 10 hours because their servers were eepy or something idk but it got fixed right after i sent a ticket. I also have a IRC in irc.b4rkod.net.tr, connect to 6667 for no SSL or 6697 for SSL.</p>
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Mon, 04 Mar 2024 15:57:04 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/Asena_died.html</guid>
+	<title>Asena_died.html</title>
+	<link>https://b4rkod.net.tr/blogposts/Asena_died.html</link>
+	<description><![CDATA[
+	 <p> Hey Traveller!</p>
+<p> I am back with bad news, i domestic violance'd Asena. let me explain myself.</p>
+<p> I decided to max out her as i stated as a option in my posts prior. I put 4 gigs in and decided to change the current scratched monitor with the spare monitor i had. As i always do, i used Asena to play music as i worked on her. My goal was to open up the monitor bezel, keyboard and the plastic frame of the keyboard then close her before disconnecting the monitor cable. </p>
+<p> I did all the parts i can do without closing her but right after i closed her, my sis asked me to play with her. I took one of the puzzles on the wall of the next door and put it in front of her and told her to draw that. </p>
+<p> I was thinking what a genius i was for that when i came back and disconnect the monitor cable while the monitor was active and giving me light. Right as i disconnected the cable i smelled some burnt electronics. Here is the weird thing, everything worked after that. Until i did something disgusting.</p>
+<p> I searched for other computers ON HER, i knew that was such a stupid choice to make but you know i am not very smart. That made her angry and she bringed up former mistakes i made and now her backlight doesn't work. </p>
+<p> I know that F1 fuse is the one that gives the backlight electricity, i will start from there and go up until i find the issue but not now. I don't think Asena would be happy to do that right after the backlight incident and i bought a new computer.</p>
+<p> Yep, not only did i look at other computers i bought one, a thinkpad X270. My fave computer was a x230 but all the sellers of that series were scammers or lived far away. X270 and the earlier variants until x240 seem to be similar in good/bad ratio but the x270 had the most a reliable looking seller. </p>
+<p> The computer is in pristine condition, the keyboard isn't as bad as i thought it would be but it has a touchscreen, it has less IO than the Asena1(this one is Asena2), doesn't have a SSD(soo i reinstalled things to the NVME for the first time in about 5 years), it has no indicator lights whatsoever and you can't really disable the trackpad from the BIOS(there is a toggle that doesn't work). </p>
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Sat, 02 Mar 2024 10:11:17 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/the_ipblocking_grind.html</guid>
+	<title>the_ipblocking_grind.html</title>
+	<link>https://b4rkod.net.tr/blogposts/the_ipblocking_grind.html</link>
+	<description><![CDATA[
+	<p> I have been working hard on securing the website for the 0 visitors that weren't bots or me.</p>
+<p> Did i make improvements? no But i tried really hard to. I am blocking the IP's that send GET requests with "whyareyougay" in the header, it is tiresome. Thankfully literally every single IP i find malicions is located in a datacenter/server soo when i find one machine from a host, i block their whole IP range. Alongside this, it is kinda sad that machines send soo much requests daily, this site isn't indexed by google or i didn't advertise it anywhere but bots don't give a shit. They send requests by the IP and they do it constantly. I heard in 1990's blocking computers were the hardest part of the webhosting, now i get it. Because i am not defended by cloudflare or similar services i am always on war against the robots. </p>
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Wed, 24 Jan 2024 08:26:32 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/plaintext_is_the_best.html</guid>
+	<title>plaintext_is_the_best.html</title>
+	<link>https://b4rkod.net.tr/blogposts/plaintext_is_the_best.html</link>
+	<description><![CDATA[
+	<p> Happy new year, Traveller!</p>
+<p> Soo, what do you use to create presentatons? </p>
+<p> I was a lost soul that thought if i wanted to make a presentation, i should use the libre office's presentation module, i was greatly mistaken! The answer was right in front of my eyes too. It was LaTeX and plain text.</p>
+<p> You always gotta use the plain text, Traveller, It always is the best method. Let's get to why, regex.</p>
+<p>  Recently i had the displeasure of doing a presentation in uni. Presentation made in libre office with all the shiny backgrounds, lists, gizmos and doodads exported to PDF. Yet i forgot one thing, the printed documentation would look bad with that! Of course i had to use LaTeX for the printed document, thats what the professionals use!(not that i ever met them). </p>
+<p> Anyways i couldn't find how to export text from libre, soo i had to export the text from the pdf. Turns out it exports with newlines present despite a paragraph being one line that was warped. regex came to my rescue and i deleted every newline that isn't followed by a empty space. Every header had a symbol that didn't print in vim, regexed that to turn them into section headers, it took less than 20 minutes to turn a pdf for presentation to a pdf for printing.</p>
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Wed, 24 Jan 2024 08:26:32 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/i_am_back.html</guid>
+	<title>i_am_back.html</title>
+	<link>https://b4rkod.net.tr/blogposts/i_am_back.html</link>
+	<description><![CDATA[
+	<p> Whats up people?</p>
+<p> Oh boy, i forgot i even had a website! </p>
+<p> Not that anyone was refreshing their RSS feeds waiting for a blogpost from me but oh boy i was living like a slop. I didn't update my own rss feed manually in quite some time, i didn't read one blogpost in nearly a month. I didn't read one line of shell in a similar time. </p>
+<p> I have been stupid-ing, simply. Even how i remembered i had a website is stupid. I was on my keyboard writing something but i felt slow, then i thought about why i felt slow when i was faster before. Then i remembered i had a blog and a site that forced me to write. This time i am a different man than the man that wrote those blogposts 2 months ago, i now have;  </p>
+<p> anxiety!</p>
+<p> The reason is stupid as most things about me are lately; I did great in my finals but i have one exam left from a class i got AA in midterm. The anxiety's core is i have a ride 2 hours after that exam will be over and i might miss the bus afterwards. For some stupid reason this is making me insanely anxious! My brain works in mysterious ways.</p>
+<p> Now that i am back to screaming at the void again i don't want it to be all doom and gloom thought, I will talk about things i am passionate about, thinkpads.</p>
+<p> You know my X201, right. Did you know it didn't have hardware acceleration and had a horrible monitor? I am actually fine with it not having Hardware acceleration because performance isn't a high importance for me. I don't even run it at dual-channel ram configuration! The issue is the monitor.</p>
+<p> When i was running it with a external 1080P monitor and mostly faraway from the sun it was more than fine but now that i am social and leave my room i want a good screen. I am thinking about X230 for this. </p>
+<p> I have 6 things i want currently</p>
+
+<ul>
+	<li> Matte IPS screen(preferably low res)
+	<li> A good keyboard
+	<li> Trackpoint
+	<li> Dual channel, removable ram
+	<li> Removable battery
+	<li> Fingerprint reader
+</ul>
+
+<p> If i mod a x220 keyboard into a x230, it would have everything i want. But my current computer already meets 4 of them with the dual channel requirement being only one purchase away(my TP runs a 4x2 config soo i only need one 4 gb stick).</p>
+<p> I really want that IPS screen but i actually never had IPS before, i might be overhyping it and if i buy another computer while Asena still runs perfectly that is basically cheating! Is a small improvement in a monitor worth cheating on my computer wife?</p>
+<p> Thats all i want to write about.</p>
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Mon, 18 Dec 2023 21:57:36 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/dostoyevski_could_not_survive_the_internet.html</guid>
+	<title>dostoyevski_could_not_survive_the_internet.html</title>
+	<link>https://b4rkod.net.tr/blogposts/dostoyevski_could_not_survive_the_internet.html</link>
+	<description><![CDATA[
+	<p> I had this weird realisation just today, that absolutely is the case with him isn't it, he just couldn't survive it.</p>
+<p> First of all, he is into feet and femdom most likely. And before any of his books got popular enough to put him in a "weird genius" position there would be a dataleak that showed him licking a womens feet or paying for someone to spank him. Would you take such a guy seriously? I don't think so. He probably couldn't even publish most of his stories because kiwifarms(god bless the people that are fighting the good fight against them) would spam all publishers trying to kill his carrer.</p>
+<p> Where am i going with this, you might ask. </p>
+<p> I am getting to how weird people that created great things couldn't create what they created in the cringe culture. There are small groups that accept these people but majority is far too anti weirdness. I don't think people could dedicate their entire lives to destroying Chris-chan, ulillillia or Terry Davis in 19th century. If you could put these people's entire lives before the internet they could have created great things but in the cringe culture we live in they just got bullied into oblivion(or reduced their internet presence greatly in the case of ulillillia).</p>
+<p> Knowing the fact that if a writer similar to Franz lives today, he won't publish any of his writings in fear of ridicule is such a sad knowledge. </p>
+<p> This is why any time i see a genuinely weird site that isn't a gimmick i feel happy. Such a nice feeling to see some absurdity and anormality in the space that is far too standartised. </p>
+<p> One website about a guy's ramblings is worth 20 personal website that is just social media links. </p>
+<p> Don't waste time hosting a links tree, at least put a character you are obsessed with there. People on tumblr were soo good at that they even have a name for these characters they are obsessed with, they call them blorbos. You could even see a blorbo kick in in real time sometimes, i found that really cute.</p>
+<p> In a unrelated note, 7 days ago i started playing a mobile game called Mobile legends and got to epic rank today. God did i miss mobas. It literally made me think about just buying a x270 or something to play lol or hots. ML season is ending in 5 days and i will only play it to get a costume i am trying to get(which happens in 2 days), i think will take me 1 hours daily to get. </p>
+My most ADHD post yet, but worse ones will come eventually.
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Sun, 10 Dec 2023 08:55:45 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/less_is_better_digitally.html</guid>
+	<title>less_is_better_digitally.html</title>
+	<link>https://b4rkod.net.tr/blogposts/less_is_better_digitally.html</link>
+	<description><![CDATA[
+	<p> You should strive to reduce the number of layers between you and the hardware.</p>
+<p> I know you are thinking "but b4rkod, that requires a lot of time and efford but i don't have that" or something similar. Don't worry, there is a easier way to do this. You should take every software you have issues with outside your stack and replace them with smaller components until you have 20 shell scripts that might break second that tie 50 small thangs together, live in the edge!</p>
+<p> Advices don't work well when you can't show people the advice works in practice. Soo i will talk about my linux journey(every linux users wet dream, tbh).</p>
+<p> Around 5-6 years ago i was a little barkod sticker, around the same size but much stupider, running a equally stupid windows 10 install to play even stupider games. One day for some class homework i had to use my computer for some homework that had quite a lot of affect on my notes. Of course i started doing it at the last day at 10 pm but OF COURSE the windows failed me and started a update it couldn't finish. I don't rember how but at around 6 AM in the morning, the work was finished. The very next day i was installing ubuntu on my computer. </p>
+<p> Of course ubuntu was better than win10 but had issues, first issue was that systemd was spending 1.30 minutes to do <l>something</l> to the hard drives before boot. I still have no idea what it did or why. The second issue was when the DM failed on me and i absolutely had no idea how to fix that, we are talking about a guy that didn't even know what vim was trying to fix a issue without a GUI. The worst part in that was any ubuntu help you tried to get on the internet was basically "don't touch the command line boogeyman and never listen to the arch elitists" while i didn't even have a GUI soo the terminal boogeyman was all i had. I literally couldn't fix it if i didn't meet some guy that ran arch to tell me to just run gnome from xinit and DM's were for losers . At that point i had nothing to lose soo i tried that, it did work ofc. That's how DM became the first layer i cut without even knowing much about computers. </p>
+<p> At the first proper GUI i saw on my system i burned the arch ISO and started installing it late at night. I think it took around 5 hours to install it working with network and XFCE. Arch was far cooler than ubuntu but the systemd issue that made me sometimes wait for 1.30 minutes before boot persisted. I think i used arch for a year, it worked flawlessly until it didn't. </p>
+<p> Pulseaudio was the culprit, Poetteringware always is the culprit. The audio stopped working randomly and i couldn't fix it again. At this point i knew how to use vim and thanks to the arch people around me i wasn't scared of the command line anymore. I started reading about linux audio system and realised pulse audio was a second layer on top of a audio system. I just deleted it and audio started working again. I learnt anything from this as you would see.</p>
+<p> As time went on i understood that i wasn't going to find a solution for that wait before the boot. Systemd wasn't working as intended or i wasn't supposed to poweroff with mounted flash drives and external hard drives that weren't in /etc/fstab. I choose to chance systemd as you would expect.</p>
+<p> There came Artix, i installed it without issue on my desktop. At this point, i was already using the suckless tools and when i made the change i decided i would compile them all in a TTY after setting everything else up. That was far easier than i thought. Now the userspace ran like this after runit</p>
+<ul>
+<li>tty comes up with name already writtten 
+<li>i write my password 
+<li>startx gets executed if the tty is tty1
+<li>startx executes dwm,sxhkd and several st terminals
+<li>I open programs with sxhkd and move the windows with dwm
+</ul>
+<p> Pretty efficient, really error resistant because there is not much that could be broken and 1337. I was running the dream setup, didn't know it could get better. How you might ask</p>
+<p> <b>Pulseaudio</b>, the cancer was there! Poetteringware in its purest form. I don't even remember the exact story or the technicalities but i had some issues with audio that i fixed by just deleting pulseaudio and restarting. I learnt nothing from this.</p>
+<p> After years of using this system, i bought a x201(my beloved Asena). The change was soo simple it made me feel weird. I took the harddisk from a system with r5 2600 and RX 480 and put it in a system that had M540 and intel HDG. It just ran, no issue no nothing. I just installed the fingerprint reader software and added it into the software stack. </p>
+<p> But i was stupid once again! Not even long ago, i am talking this week ago. I tried pipewire because i couldn't get the dmix part of alsa to work(i tried to play a video alongside music and didn't even test it). I thought pipewire would be some neat basic software that made things easier. It was absolutely the worst software i have ever seen. </p>
+<p> Where should i start it, where should i kill it, why doesn't it run from .bash_profile, why does it require 2 different software to work when one could execute the other, why does it require a graphical environment? i don't know and i don't wanna learn.</p>
+<p> Anyways, turns out i set mpd to interact with the sound card directly and it didn't allow other programs to interact with it as long as it ran (it always runs in background). I was even ok with just not having a dmix working and fixed alsa while reducing the lenght of my mpd config file. </p>
+<p> If you ask me why i have a complicated mpd setup instead of a basic mpv/mpg123 setup, it is because i was trying to show someone open source doesn't equal ugly and ncmpcpp visualiser was just far too beatiful to pass at the time. Here is the funny thing, i don't even use its visualizer now. I use a visualizer called vis but the album cover script still requires mpd.</p>
+<p> As much as i like simple, i also like the shiny because i believe if your computer doesn't look beatiful, you won't want to work on it as much. Function over form but not function without form, at least digitally(i dress ugly, simple as).</p>
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Thu, 30 Nov 2023 12:12:23 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/i_am_not_ironic.html</guid>
+	<title>i_am_not_ironic.html</title>
+	<link>https://b4rkod.net.tr/blogposts/i_am_not_ironic.html</link>
+	<description><![CDATA[
+	<p> Fuck irony!</p>
+<p> There is a Phenomenon that i am seeing far too often lately. People are soo ironic about what they like and what they hate.</p>
+<p> If i said "i hate discord" it would mean i hate discord and won't use it as long as i have a choice(thnakfully we aren't at a state where i have to use discord for school or something) but when i see "i hate discord" on the internet i just know i will listen some stupid drama they are part of in a discord server if i don't run away. </p>
+<p> I never played or watched any content related to Last of Us (nor any AAA games since Witcher 3) but i know the main character is a lesbian and the second game has a NB character. I learnt both that from odysee(rot in hell) thumbnails that were filling every single tag there. </p>
+<p> Also about odysee, i found <a href="http://iteroni.com/channel/UCpri-xCsrx6IrHO7BYHTsvg">Danie Dreadful</a> there, if i had such a great creator in my platform and there were manchildren making videos about how the latest AAA trash didn't make their dick hard i would shadowban the latter soo the former can find the auidence they deserve faster. Odysee did the exact opposite and promoted the manchild video format at every tag in their site, Awful!</p>
+<p> Anyways i started to just block people that talk about twitter, discord and AAA games and i have a better life online.</p>
+<p> I have a confession before i finish this text. I also talked about lol a lot when i hated the game, i am sorry about it and i will do better(LoL free for 3 months btw).</p>
+Damn, ADHD'ed this post hard
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Sun, 26 Nov 2023 13:28:38 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/most_things_i_sewed.html</guid>
+	<title>most_things_i_sewed.html</title>
+	<link>https://b4rkod.net.tr/blogposts/most_things_i_sewed.html</link>
+	<description><![CDATA[
+	<p> I have sewn a lot of plushs and other doodads in my lifetime but didn't store most of them, now that i have a website and there is clearly a large attention to it(I even had 1 non-robot guest!1!) i will publish those images. </p>
+<p> I might add more if i find my older creations but they will be seperate blogposts because i don't want to update blogposts.</p>
+<br>
+<p> First of all, A cape i made for my little sister, isn't it lovely? She looks like a little witch when she wears it!</p>
+<img class="image" src="/files/cape_front.jpg">
+<img class="image" src="/files/cape_back.jpg">
+<p> A lifeless neets spirit animal, Wallflower Blush's pony recreation. And a image from when i cut her head(I was going to repair her head completely soo i had to cut her head but thought the visual was too funny soo i tied her up to my lamb).</p>
+<img class="image" src="/files/wallflower_blush.jpg">
+<img class="image" src="/files/blush_dead.jpg">
+<p>  Fluttershy, best pony.</p>
+<img class="image" src="/files/fluttershy.jpg">
+<p> Made this gondola in nearly 3 hours, despite how short time i had and how horrible everything i used was, it turned out great.</p>
+<img class="image" src="/files/gondola.jpg">
+<p> I watched mad Hatter with my sister and we made this, it was mostly her work thought.</p>
+<img class="image" src="/files/hat_1.jpg">
+<p> The bag i used for several years, i don't use it right now because i sewed it to hold exacly one bottle, my thermos, my x201 and a small notebook. too small for my current needs. Thermos being out also wasn't a good design choice. Maybe i could resew that part to a more integrated design if i can chance my thermos to a smaller one.</p>
+<img class="image" src="/files/postbag_3.jpg">
+<p> Second best pony, Princess Luna</p>
+<img class="image" src="/files/princess_luna.jpg">
+<img class="image" src="/files/princess_luna_1.jpg">
+<p> 2 different Zote's from Hollow knight and DJ Pon3. If i say why we killed Zote, i will have to kill you too. </p>
+<img class="image" src="/files/thang_alive.jpg">
+<img class="image" src="/files/thang_alive_1.jpg">
+<img class="image" src="/files/thang_alive_2.jpg">
+<img class="image" src="/files/thang_dead.jpg">
+<img class="image" src="/files/thang_dead_4.jpg">
+<img class="image" src="/files/zote_alive.jpg">
+<img class="image" src="/files/zote_1.jpg">
+<img class="image" src="/files/zote_2.jpg">
+<img class="image" src="/files/zote_dead_3.jpg">
+<p> I think this is the first plush i made, i was soo young when i made this. I did this after i watched HTTYD soo i thing when i was 10 or something.</p>
+<img class="image" src="/files/toothless.jpg">
+<p> The ugly, awful linux mascot. There is a image where i killed him too but can't find it right now.</p>
+<img class="image" src="/files/tux.jpg"> 
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Sun, 26 Nov 2023 13:28:38 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/i_am_a_thinkpad_fanboy.html</guid>
+	<title>i_am_a_thinkpad_fanboy.html</title>
+	<link>https://b4rkod.net.tr/blogposts/i_am_a_thinkpad_fanboy.html</link>
+	<description><![CDATA[
+	<p> Yep, thats a confession post this time.</p>
+<p> I don't care how "inefficient" or "ugly" they are, i just love these thangs. They are the peak of the function over form. </p>
+<p> The thick clicky keyboard, the trackpoint, the thinklight(my thinklight is dead, sadly), the durable feeling you get and the general aesthetic pleasure. It is a great package of hardware.</p>
+<p> But it isn't all games and fun, thinkpad "repairability" isn't actually that better than other laptops from that time for example. Don't know why people say that. The screen also sucks for x201 and x200(the x220 variant allegedly had great IPS mods soo won't include it).</p>
+<p> I especially like those "thinkpad in random place" posts you see on the interwebz, great stuff that enchant being a brainless consumer to a corporation that don't give a shit about us.</p>
+<p> Here is my addition to the trend.</p>
+<img src="/files/IMG_test.jpg"> 
+(the image was 5 MB before i resized, why are phone cameras like this?)
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Tue, 21 Nov 2023 22:40:36 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/gave_hugo_a_go.html</guid>
+	<title>gave_hugo_a_go.html</title>
+	<link>https://b4rkod.net.tr/blogposts/gave_hugo_a_go.html</link>
+	<description><![CDATA[
+	<p> I didn't like it much tbh.</p>
+<p> First of all, it is too big for its own sake. I am not sure how much it exacly weighed but it was big. There was also the issue of GOLANG, i am not really fond of Google as you would expect.</p>
+<p> But it surely was a good experience that forced me to open up the  <a href=https://git.b4rkod.net.tr/wesh.git>scripts</a> file to automate my system slightly more. I am even writing this blogpost to test the add_to_index_proper.sh(stupidest name one could give to a program that also uploads files to a server. Well done, me!)</p>
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Sun, 19 Nov 2023 20:34:16 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/Webmasterness_and_hosting.html</guid>
+	<title>Webmasterness_and_hosting.html</title>
+	<link>https://b4rkod.net.tr/blogposts/Webmasterness_and_hosting.html</link>
+	<description><![CDATA[
+	<p> Hey travelers!</p>
+<p> At this point, i can actually say i have a working website, nothing is automated because i am not lazy enough to tie everything together perfectly. </p>
+<p> This post is about these thought. I probably won't forget to put my scripts in my git server(it is in https://git.b4rkod.net.tr/wesh.git/ if i update it). If you can read and comprehend my bash lingo you will see that, actually i should just tie them up and create a environment where i just write a text file and let everything else to the bash. </p>
+<p> I have a script that turns txt to html(formatter.sh), a script that automatically adds blogposts into the index file(add_to_index.sh), a alias that autocopies a blogpost and the index to the server and another script that adds blogposts to the rss feed(add_to_rss.sh). I am all set, except i do every single one of those actions manually soo it still takes time. </p>
+<p> I am hardworking enough that i can write the hard part but not disciplined enough to finish the job. </p>
+<p> Not that things aren't going well, i get well over 5 bots that scan my ports for security holes daily! </p>
+<p> There was even a guy that scanned my root file for every starcraft character/mob's name and do it again with changing the last 2 characters (like /kerrigan /kerrigna) Why did he do it? What kind of weirdo would store a file called "yagdra" and what was that guy trying to find? Mysteries of the internet.</p>
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Sun, 19 Nov 2023 17:07:39 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/image_uploader.html</guid>
+	<title>image_uploader.html</title>
+	<link>https://b4rkod.net.tr/blogposts/image_uploader.html</link>
+	<description><![CDATA[
+	<p> I have a image uploading system now!</p>
+<p> It is simple, probably not secure but it works well as far as image uploading goes</p>
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Sun, 19 Nov 2023 17:07:38 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/things_work_now.html</guid>
+	<title>things_work_now.html</title>
+	<link>https://b4rkod.net.tr/blogposts/things_work_now.html</link>
+	<description><![CDATA[
+	<p> I am happy now!</p>
+<p> Everything is at place except the actual website i display. With this post there will be 4 different blogposts, i wrote a shitty bash script that automates turning txt into a html and puts them into the blogpost list and a alias to copy the files into the server.</p>
+<p> Kinda neat that 5 days ago i didn't even have a thought about having a website but now i have a functional website with certificates. </p>
+<p> I like those websites that have padding at the screen edges, mine doesn't have that but i believe it should</p>
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Sun, 19 Nov 2023 17:07:37 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/thingies_are_my_weakness.html</guid>
+	<title>thingies_are_my_weakness.html</title>
+	<link>https://b4rkod.net.tr/blogposts/thingies_are_my_weakness.html</link>
+	<description><![CDATA[
+	<p> Thingies are my weakness!</p>
+<p> I mean that sincerely, let me explain that for you. Very recently i went to a dollarstore to buy a spoon to use when i want to stir my coffee(i live in a dorm) and then i found this thang!</p>
+<p> I hope i won't forget to add a image here</p>
+<img style="margin-left:40px; margin-right:40px;" src="/images/spoon_1.jpg">
+<p> I believe it is a tool used for calculating sugar amount because it is too gingerbell for salt and too big to be used for pouring sugar in tea and such. It was all alone in a shelf alongside really fancy glass little spoons, it had nothing similar to it in that shelf and when i saw that, i KNEW i had to buy it. Anyways it was about 3.5 tl(around 0.10$) and in the receipt thing it was written as "muhtelif" which means "various". This is a thingie. </p>
+<img style="margin-left:40px; margin-right:40px;" src="/images/spoon_2.jpg">
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Sun, 19 Nov 2023 17:07:36 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/HTML_is_awful.html</guid>
+	<title>HTML_is_awful.html</title>
+	<link>https://b4rkod.net.tr/blogposts/HTML_is_awful.html</link>
+	<description><![CDATA[
+	<p> Hey travelers, welcome back!</p>
+<p> 	Right now, i am in search of a software that will create simple html files from basic txt files and append these html file links to a list inside my index page. Don't know how complicated that would be computationally but i am confident it won't be that hard to find. If i can't find it i will ducktape some abomination with bash.</p>
+<p> 	Alongside this, HTML is awful! No wonder there are millions of ways to mitigate writing even one line of HTML. I want to experience things oldschool and 1337 soo i will probably write things myself for now but other than the main page i will automate other things as much as possible.</p>
+	]]></description>
+</item>
+ 
+<item>
+	<pubDate>Sun, 19 Nov 2023 16:54:10 +0300</pubDate>
+	<guid>https://b4rkod.net.tr/dns_services_are_hell.html</guid>
+	<title>dns_services_are_hell.html</title>
+	<link>https://b4rkod.net.tr/blogposts/dns_services_are_hell.html</link>
+	<description><![CDATA[
+	<p> I am not having fun!</p>
+<p> Finally bought a domain from a registrar this morning. It doesn't seem to have any privacy settings soo anyone that can operate a computer can know who i am, after nearly 8 hours the DNS redirection still doesn't happen(if you are reading this, you probably know that already) soo i still don't have certificates. </p>
+<p> I don't care that much because about the privacy aspect because i am thinking about using this site as my sole existance on internet eventually, it might as well have my name attached. The annoying part is that it doesn't redirect yet, i want my url already!</p>
+<p> Alongside this, i wrote a shell script that turns plain text files into plain html files. I will find a way to add those links to my blogpost list without interference one day.</p>
+	]]></description>
+</item>
+ 
+</channel>
+</rss>
+
