@@ -2,6 +2,9 @@
 
 . ~/.config/b4rcms/basics.sh
 
-for FILE in $(ls $ROOT/blogposts); do
-	grep $FILE $DB/blogposts.txt > /dev/null ||echo "$(stat -c "%W" $ROOT/blogposts/$FILE);$FILE" >> $DB/blogposts.txt
+cd $ROOT/blogposts
+for FILE in $(ls); do
+
+	grep -s $FILE $DB/blogposts.txt > /dev/null || stat -c "%W;%n" $FILE >> $DB/blogposts.txt
+
 done
